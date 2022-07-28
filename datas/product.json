@@ -1,0 +1,39 @@
+{
+    "product": [
+        {
+            "name": "Camera",
+            "image": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+            "price": 5000000
+        },
+        {
+            "name": "Headset",
+            "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=384&q=80",
+            "price": 1500000
+        },
+        {
+            "name": "Gamepad",
+            "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "price": 500000
+        },
+        {
+            "name": "Sepatu",
+            "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "price": 500000
+        },
+        {
+            "name": "iPhone",
+            "image": "https://images.unsplash.com/photo-1555375771-14b2a63968a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+            "price": 5000000
+        },
+        {
+            "name": "Smartwatch",
+            "image": "https://images.unsplash.com/photo-1569411032431-07598b0012c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "price": 1000000
+        },
+        {
+            "name": "GPU",
+            "image": "https://images.unsplash.com/photo-1621164071312-67bb68821b3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+            "price": 10000000
+        }
+    ]
+}

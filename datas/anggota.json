@@ -1,0 +1,29 @@
+{
+    "anggota": [
+        {
+            "nama": "M Donny Rahmat K",
+            "github": "https://github.com/DonnyRahmat",
+            "kota": "Tangerang Selatan"
+        },
+        {
+            "nama": "Muhammad Akhyar",
+            "github": "https://github.com/Muhammad-Akhyar",
+            "kota": "Kisaran"
+        },
+        {
+            "nama": "Mashum Abdul Jabbar",
+            "github": "",
+            "kota": "null"
+        },
+        {
+            "nama": "Putra",
+            "github": "",
+            "kota": null
+        },
+        {
+            "nama": "Maruli Sinaga",
+            "github": "",
+            "kota": null
+        }
+    ]
+}
