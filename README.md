@@ -1,4 +1,4 @@
-# tugas-1-kelompok-a11-golang
+# Tugas 1 Kelas 3.4 kelompok A11 - Golang
 
 ## Note
 
